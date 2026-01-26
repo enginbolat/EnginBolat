@@ -16,6 +16,6 @@
 
 🛠 **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dotnet,nextjs,nestjs,figma,tailwind,firebase,mysql,git,jest,redux,prisma,yarn,npm" />
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,python,dart,cs" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,swift,dotnet,nextjs,nestjs,tailwind,firebase,mongodb,mysql,prisma,jest,redux,git" />
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,python,dart,cs,graphql" />
 </p>
