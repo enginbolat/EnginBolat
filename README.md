@@ -19,9 +19,6 @@
   <a href="https://enginbolat.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website">
   </a>&nbsp;
-  <a href="https://instagram.com/enginn.blt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>&nbsp;
   <a href="https://x.com/enginnblt" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>&nbsp;
