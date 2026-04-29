@@ -19,9 +19,6 @@
   <a href="https://enginbolat.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website">
   </a>&nbsp;
-  <a href="https://x.com/enginnblt" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>&nbsp;
   <a href="mailto:engi.bolat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
